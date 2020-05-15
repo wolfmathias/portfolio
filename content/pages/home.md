@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Hi, I'm Matt.
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: 'I am a [Dreamer, Developer, Creator]'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
