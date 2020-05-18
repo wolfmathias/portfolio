@@ -1,8 +1,8 @@
 ---
 template: HomePage
 slug: ''
-title: Hi, I'm Matt.
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+title: 'Hi, I''m Matt.'
+featuredImage: 'https://ucarecdn.com/e76fee93-cd14-45b2-b9d2-35b888ec4cf8/'
 subtitle: 'I am a [Dreamer, Developer, Creator]'
 meta:
   description: This is a meta description.
