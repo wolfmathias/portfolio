@@ -1,9 +1,9 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Me
-featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
-subtitle: I'm currently looking for a software developer role.
+title: Contact me
+featuredImage: 'https://ucarecdn.com/775f1c07-c991-403f-9e1c-8585e200e42e/'
+subtitle: _**Currently seeking a software developer role.**_
 address: 'Colorado, USA'
 phone: 928.600.5882
 email: mattplichtawild@gmail.com
