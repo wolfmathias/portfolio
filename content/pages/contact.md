@@ -14,6 +14,6 @@ meta:
 ---
 # Let's talk about stuff
 
-I'm looking for work in software, it's the perfect time to hire me.
+It's the perfect time to hire me. Ask me why.
 
 Right now my focus is on frontend app development, but I love exploring new ideas and technologies. Whatever your project is, I bet I can help.
