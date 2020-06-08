@@ -5,6 +5,8 @@ status: Published
 date: '2020-06-08'
 featuredImage: 'https://ucarecdn.com/7f886cd8-12ca-4630-8bcf-0ae3c860692a/'
 excerpt: Built using JavaScript
+categories:
+  - category: Projects
 ---
 My dive into JavaScript! This app uses JS to create HTML elements in the DOM. The elements are created dynamically, using API endpoints provided by the WildWish Ruby on Rails app.
 
