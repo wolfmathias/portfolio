@@ -5,6 +5,8 @@ status: Published
 date: '2020-06-08'
 featuredImage: 'https://ucarecdn.com/73708214-2564-4964-807f-77614a501057/'
 excerpt: Written Ruby and Sinatra.
+categories:
+  - category: Projects
 ---
 ![](https://ucarecdn.com/f4128389-cade-4a4f-85d4-ba9044f9d3db/)
 
