@@ -5,6 +5,8 @@ status: Published
 date: '2020-06-08'
 featuredImage: 'https://ucarecdn.com/2fbe6f23-7588-4e50-a662-a55cc310c8b7/'
 excerpt: Written using Ruby on Rails.
+categories:
+  - category: Projects
 ---
 Built with Ruby on Rails.
 
