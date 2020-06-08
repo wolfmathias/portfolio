@@ -5,6 +5,8 @@ status: Published
 date: '2020-06-08'
 featuredImage: 'https://ucarecdn.com/fd934815-cc48-4fe0-be45-4e092c396450/'
 excerpt: Command line application written in Ruby.
+categories:
+  - category: Projects
 ---
 ![](https://ucarecdn.com/8aa59736-1e81-4587-bf77-80b38f557c1b/)
 
