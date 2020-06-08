@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: 'JavaScript Draft for WildWish '
+title: WildWish vanilla JavaScript
 status: Published
 date: '2020-06-08'
 featuredImage: 'https://ucarecdn.com/7f886cd8-12ca-4630-8bcf-0ae3c860692a/'
