@@ -6,6 +6,8 @@ date: '2020-06-08'
 featuredImage: 'https://ucarecdn.com/fd934815-cc48-4fe0-be45-4e092c396450/'
 excerpt: Command line application written in Ruby.
 ---
+![](https://ucarecdn.com/8aa59736-1e81-4587-bf77-80b38f557c1b/)
+
 Written in Ruby, this was the first program I built.
 
 The app uses object oriented programming to initialize a user when ran. The user can then browse profiles of animals and choose a toy on that animal's list to donate. 
