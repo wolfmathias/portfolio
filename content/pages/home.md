@@ -3,14 +3,23 @@ template: HomePage
 slug: ''
 title: Hi, I'm Matt.
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: 'todo: Create subtitle that cycles through "I am a dreamer. I am a developer. I am a creator."'
+subtitle: 'DREAMER | CREATOR | DEVELOPER'
+accordion:
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: The home page of Matt Plichta.
+  title:
 ---
-# Passion drives everything
+# Passion Drives Everything
 
+My name is Matt, and I'm here to help.
 
+I am a developer driven to create products that make the world a better place.
+
+As a founder, my entreprenurial spirit allows me to see the bigger picture of what I am working on, facilitating work that expands the product as a whole and turns ideas into reality.
+
+I love the creativity behind finding solutions and thrive on learning new ways to tackle a problem. By integrating new methods and knowledge, I create innovative programs to provide real change to the world around me. This can be seen in my work with the [WildHeart Foundation](https://www.thewildheartfoundation.org), my passion project and the vehicle for my own development.
 
 # Features
 
