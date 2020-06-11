@@ -11,29 +11,24 @@ meta:
   description: The home page of Matt Plichta.
   title:
 ---
-# Passion Drives Everything
+> # Passion Drives Everything
 
-My name is Matt, and I'm here to help.
+*My name is Matt, and I'm here to help.*
 
 I am a developer driven to create products that make the world a better place.
 
 As a founder, my entreprenurial spirit allows me to see the bigger picture of what I am working on, facilitating work that expands the product as a whole and turns ideas into reality.
 
-I love the creativity behind finding solutions and thrive on learning new ways to tackle a problem. By integrating new methods and knowledge, I create innovative programs to provide real change to the world around me. This can be seen in my work with the [WildHeart Foundation](https://www.thewildheartfoundation.org), my passion project and the vehicle for my own development.
+I love the creativity behind finding solutions and thrive on learning new ways to tackle a problem. By integrating new methods and knowledge, I create innovative programs to provide real change to the world around me. 
 
-# Features
+I produce results, seen in my work with the [WildHeart Foundation](https://www.thewildheartfoundation.org), my passion project and the vehicle for my own development.
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+After building the organization's [homepage](https://mattplichtawild.com/posts/wild-heart-foundation/) with WordPress, I turned my attention towards software development. 
 
-## Get started
+I love exploring and learning new things. I can pick up whatever tech you use, and I know I can help you go far with whatever you have going on.
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+### [Contact me](https://mattplichtawild.com/contact/) to see if we're a match, or [learn more about my story](https://mattplichtawild.com/contact/)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+> ## Technologies I use include:
+>
+> **JavaScript | ReactJS | Gatsby | Ruby on Rails | PostgreSQL**
