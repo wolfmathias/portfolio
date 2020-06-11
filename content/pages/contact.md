@@ -9,8 +9,8 @@ phone: 928.600.5882
 email: mattplichtawild@gmail.com
 locations: []
 meta:
-  description: Contact Matt
-  title: Contact Page
+  description: Contact
+  title: Contact
 ---
 # Let's talk about stuff
 
