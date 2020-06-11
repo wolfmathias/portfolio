@@ -29,6 +29,6 @@ I love exploring and learning new things. I can pick up whatever tech you use, a
 
 ### [Contact me](https://mattplichtawild.com/contact/) to see if we're a match, or [learn more about my story](https://mattplichtawild.com/contact/)
 
-> ## Technologies I use include:
+> ## Technologies I currently use include:
 >
 > **JavaScript | ReactJS | Gatsby | Ruby on Rails | PostgreSQL**
