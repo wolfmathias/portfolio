@@ -35,11 +35,11 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
 
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Gallery images={gallery} />
       </div>
-    </section>
+    </section> */}
 
     {/* <section className="section">
       <div className="container">
