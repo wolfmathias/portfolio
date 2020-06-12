@@ -27,7 +27,10 @@ After building the organization's [homepage](https://mattplichtawild.com/posts/w
 
 I love exploring and learning new things. I can pick up whatever tech you use, and I know I can help you go far with whatever you have going on.
 
-### [Contact me](https://mattplichtawild.com/contact/) to see if we're a match, or [learn more about my story](https://mattplichtawild.com/about/)
+### [Learn more](https://mattplichtawild.com/about/) about my story
+
+
+### [Contact me](https://mattplichtawild.com/contact/) to see if we're a match
 
 > ## Technologies I currently use include:
 >
