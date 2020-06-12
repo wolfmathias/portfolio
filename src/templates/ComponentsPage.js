@@ -41,31 +41,31 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
 
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Content source={section2} />
       </div>
-    </section>
+    </section> */}
 
-    <section className="BackgroundVideo-section section">
+    {/* <section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
         {video && <source src={video} type="video/mp4" />}
       </BackgroundVideo>
-    </section>
+    </section> */}
 
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Accordion items={accordion} />
       </div>
-    </section>
+    </section> */}
 
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Popup>
           <Content source={section1} />
         </Popup>
       </div>
-    </section>
+    </section> */}
   </main>
 )
 
