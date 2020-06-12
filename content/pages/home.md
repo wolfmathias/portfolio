@@ -23,14 +23,14 @@ I love the creativity behind finding solutions and thrive on learning new ways t
 
 I produce results, seen in my work with the [WildHeart Foundation](https://www.thewildheartfoundation.org), my passion project and the vehicle for my own development.
 
-After building the organization's [homepage](https://mattplichtawild.com/posts/wild-heart-foundation/) with WordPress, I turned my attention towards software development. 
+After building the organization's [homepage](https://mattplichtawild.com/posts/wild-heart-foundation/) with WordPress, I turned my attention towards software development. I used my vision of a new app for helping animals to learn programming. 
 
-I love exploring and learning new things. I can pick up whatever tech you use, and I know I can help you go far with whatever you have going on.
+I love exploring and learning new things. I know I can help you go far with whatever you are building.
 
-### [Learn more](https://mattplichtawild.com/about/) about my story
+### [Learn more](https://mattplichtawild.com/about/) about my story.
 
 
-### [Contact me](https://mattplichtawild.com/contact/) to see if we're a match
+### [Contact me](https://mattplichtawild.com/contact/). I bet we're a match.
 
 > ## Technologies I currently use include:
 >
