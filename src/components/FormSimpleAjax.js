@@ -150,14 +150,6 @@ class Form extends React.Component {
             />
             <span>Message</span>
           </label>
-          <label className="Form--Label Form-Checkbox">
-            <input
-              className="Form--Input Form--Textarea Form--CheckboxInput"
-              name="newsletter"
-              type="checkbox"
-            />
-            <span>Get news updates</span>
-          </label>
           <div
             className="g-recaptcha"
             data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
