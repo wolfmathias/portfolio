@@ -1,5 +1,5 @@
 import React from 'react'
-import { MapPin, Smartphone, Mail } from 'react-feather'
+import { GitHub, MapPin, Smartphone, Mail } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
@@ -18,6 +18,7 @@ export const ContactPageTemplate = ({
   address,
   phone,
   email,
+  github,
   locations
 }) => (
   <main className="Contact">
@@ -46,6 +47,11 @@ export const ContactPageTemplate = ({
             {phone && (
               <a className="Contact--Details--Item" href={`tel:${phone}`}>
                 <Smartphone /> {phone}
+              </a>
+            )}
+            {github && (
+              <a className="Contact--Details--Item" href={`https://${github}`}>
+                <GitHub /> {github}
               </a>
             )}
             {email && (
@@ -90,6 +96,7 @@ export const pageQuery = graphql`
         address
         phone
         email
+        github
       }
     }
   }
