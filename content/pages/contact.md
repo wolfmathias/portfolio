@@ -7,8 +7,8 @@ subtitle: _**Currently seeking a software developer role.**_
 address: 'Colorado, USA'
 phone: 928.600.5882
 email: mattplichtawild@gmail.com
-github: 'github.com/bigcatplichta'
-locations: []
+github: github.com/bigcatplichta
+twitter: 'https://twitter.com/mattplichtawild'
 meta:
   description: Contact
   title: Contact
