@@ -1,11 +1,10 @@
 import React from 'react'
 import { Twitter, GitHub, MapPin, Mail } from 'react-feather'
 import { graphql } from 'gatsby'
-
 import PageHeader from '../components/PageHeader'
 import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
-import GoogleMap from '../components/GoogleMap'
+// import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
 
@@ -16,11 +15,9 @@ export const ContactPageTemplate = ({
   subtitle,
   featuredImage,
   address,
-  phone,
   email,
   github,
   twitter,
-  locations
 }) => (
   <main className="Contact">
     <PageHeader
@@ -68,8 +65,6 @@ export const ContactPageTemplate = ({
         </div>
       </div>
     </section>
-
-    <GoogleMap locations={locations} />
   </main>
 )
 
