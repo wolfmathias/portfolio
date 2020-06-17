@@ -152,14 +152,14 @@ class Form extends React.Component {
           </label>
           <div
             className="g-recaptcha"
-            data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
+            data-sitekey="6Leg96UZAAAAAJF2Tb2OjhnNCeMwtRppkKR4L2cj"
           />
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
           <input
             className="Button Form--SubmitButton"
             type="submit"
-            value="Enquire"
+            value="Message"
             disabled={this.state.disabled}
           />
         </form>
