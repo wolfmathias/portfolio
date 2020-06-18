@@ -8,3 +8,23 @@
   color: black;
   text-decoration: none;
 }
+
+.footer-contact-item {
+  display: inline-flex;
+  padding: 1rem 2rem;
+  border-top: 1px solid var(--lightGrey);
+  font-weight: 500;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease-in-out;
+}
+
+.footer-contact-item:hover,
+.footer-contact-item:focus {
+  color: var(--primary);
+}
+
+.footer-contact-item svg {
+  margin-right: 1.5rem;
+  color: var(--primary);
+}
