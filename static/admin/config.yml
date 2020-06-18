@@ -15,6 +15,8 @@ media_library:
     previewStep: true
     clearable: true
 
+publish_mode: editorial_workflow
+
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Page'
@@ -46,6 +48,9 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Address, name: address, widget: text }
           - { label: Phone, name: phone, widget: string }
           - { label: Email Address, name: email, widget: string }
+          - { label: GitHub, name: github, widget: string }
+          - { label: Twitter, name: twitter, widget: string }
+          - { label: Linkedin, name: linkedin, widget: string }
           - name: locations
             label: locations
             widget: list
