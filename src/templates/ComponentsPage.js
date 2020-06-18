@@ -30,7 +30,7 @@ export const ComponentsPageTemplate = ({
       backgroundImage={featuredImage}
     />
     <section className="section">
-      <div className="container">
+      <div className="container skinny">
         <Content source={section1} />
       </div>
     </section>
