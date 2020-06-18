@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Hi, I'm Matt.
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/86367d24-f687-4039-9560-e616184af906/'
 subtitle: 'DREAMER | CREATOR | DEVELOPER'
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
