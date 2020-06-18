@@ -1,7 +1,7 @@
 import React from 'react'
 import InstagramFeed from './InstagramFeed'
 import './Footer.css'
-import {GitHub, Twitter, Mail} from 'react-feather'
+import {GitHub, Twitter, Mail, Linkedin} from 'react-feather'
 
 export default () => (
   <div>
@@ -21,6 +21,9 @@ export default () => (
         </a>
         <a className="footer-contact-item" href={`mailto:mattplichtawild@gmail.com`}>
           <Mail /> mattplichtawild@gmail.com
+        </a>
+        <a className="footer-contact-item" href={'https://www.linkedin.com/in/matt-plichta/'}>
+          <Linkedin /> linkedin.com/in/matt-plichta
         </a>
       </div>
       <div className="container taCenter">
