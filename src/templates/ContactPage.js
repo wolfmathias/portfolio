@@ -14,6 +14,7 @@ export const ContactPageTemplate = ({
   subtitle,
   featuredImage,
   email,
+  github,
   twitter,
   linkedin
 }) => (
@@ -29,7 +30,7 @@ export const ContactPageTemplate = ({
           <Content source={body} />
           <div className="Contact--Details">
             {github && (
-              <a className="Contact--Details--Item" href='www.github.com/bigcatplichta'>
+              <a className="Contact--Details--Item" href={github}>
                 <GitHub /> {'github.com/bigcatplichta'}
               </a>
             )}
@@ -81,6 +82,7 @@ export const pageQuery = graphql`
         subtitle
         featuredImage
         email
+        github
         twitter
         linkedin
       }
