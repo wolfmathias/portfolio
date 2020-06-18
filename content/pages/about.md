@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: about
 title: About Me
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
+featuredImage: 'https://ucarecdn.com/3416d4ee-964b-46ca-aacf-8329ab7cd860/'
 subtitle: From training tigers, to running a wildlife nonprofit, to becoming a developer.
 section1: |-
   >## How does achieving a childhood dream of training tigers turn toward tech?
