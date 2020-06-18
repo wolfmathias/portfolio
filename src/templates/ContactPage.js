@@ -1,10 +1,9 @@
 import React from 'react'
-import { Twitter, GitHub, MapPin, Mail } from 'react-feather'
+import { Twitter, GitHub, Mail, Linkedin} from 'react-feather'
 import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
-// import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
 
@@ -14,10 +13,10 @@ export const ContactPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  address,
   email,
   github,
   twitter,
+  linkedin
 }) => (
   <main className="Contact">
     <PageHeader
@@ -30,21 +29,9 @@ export const ContactPageTemplate = ({
         <div>
           <Content source={body} />
           <div className="Contact--Details">
-            {address && (
-              <a
-                className="Contact--Details--Item"
-                href={`https://www.google.com/maps/search/${encodeURI(
-                  address
-                )}`}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <MapPin /> {address}
-              </a>
-            )}
             {github && (
-              <a className="Contact--Details--Item" href={`https://${github}`}>
-                <GitHub /> {github}
+              <a className="Contact--Details--Item" href={github}>
+                <GitHub /> {'github.com/bigcatplichta'}
               </a>
             )}
             {twitter && (
@@ -55,6 +42,11 @@ export const ContactPageTemplate = ({
             {email && (
               <a className="Contact--Details--Item" href={`mailto:${email}`}>
                 <Mail /> {email}
+              </a>
+            )}
+            {linkedin && (
+              <a className="Contact--Details--Item" href={linkedin}>
+                <Linkedin /> {'linkedin.com/in/matt-plichta'}
               </a>
             )}
           </div>
@@ -89,10 +81,10 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
-        address
         email
         github
         twitter
+        linkedin
       }
     }
   }
