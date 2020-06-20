@@ -10,8 +10,6 @@ excerpt: >-
 categories:
   - category: Projects
 ---
-![](https://ucarecdn.com/25305c4d-2f21-4a15-b90b-ba6a860ff165/ "WildHeart Foundation Home")
+[![](https://ucarecdn.com/25305c4d-2f21-4a15-b90b-ba6a860ff165/ "WildHeart Foundation Home")](https://www.thewildheartfoundation.org)
 
 Built with Wordpress. Plugins utilized to enhance SEO and accept donations with Stripe integration.
-
-Todo: Write a good summary of this. Focus on technical aspects while mentioning how cool it is that you also did everything else on top of building the website.
