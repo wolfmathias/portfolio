@@ -27,11 +27,6 @@ After building the organization's [homepage](https://mattplichtawild.com/posts/w
 
 I love exploring and learning new things. I know I can help you go far with whatever you are building.
 
-### [Learn more](https://mattplichtawild.com/about/) about my story.
-
-
-### [Contact me](https://mattplichtawild.com/contact/). I bet we're a match.
-
 > ## Technologies I currently use include:
 >
 > **JavaScript | ReactJS | Gatsby | Ruby on Rails | PostgreSQL**
