@@ -26,4 +26,4 @@ Zookeepers are able to create profiles for each of the animals they take care of
 The app works with the API provided by my [Ruby on Rails application](/posts/wild-wish-backend/).
 Redux is used to manage state.
 
-[Check out the repo on GitHub.](https://github.com/bigcatplichta/wildwish-react-mui)
+[See the repo on GitHub.](https://github.com/bigcatplichta/wildwish-react-mui)

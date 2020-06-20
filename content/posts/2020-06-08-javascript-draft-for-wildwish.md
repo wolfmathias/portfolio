@@ -13,3 +13,5 @@ My dive into JavaScript! This app uses JS to create HTML elements in the DOM. Th
 The page displays animal info as cards, which also include a "wish" from the animal's list. The user can click a button on each card to donate a specific amount. The cards also display a progress bar for the wish, which fills with each donation.
 
 This web app uses GET and POST requests to create donations, which are saved by the server side application.
+
+[See the repo on GitHub](https://github.com/bigcatplichta/wildwish-js-concept)
