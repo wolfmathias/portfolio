@@ -2,7 +2,7 @@
 template: SinglePost
 title: WildWish React SPA
 status: Published
-date: '2020-06-15'
+date: '2020-06-20'
 featuredImage: ''
 excerpt: >-
   Current build of WildWish.org
