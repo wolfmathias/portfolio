@@ -99,6 +99,6 @@ Thinking about it step by step, I need to:
 
 Easy. 
 
-[Check out the component on GitHub](https://github.com/bigcatplichta/wildwish-react-mui/blob/master/src/components/Login.js)
+[Check out the file on GitHub](https://github.com/bigcatplichta/wildwish-react-mui/blob/master/src/components/Login.js)
 
 
