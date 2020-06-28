@@ -13,6 +13,16 @@ I wanted the login form to be simple and give the option for users to login with
 
 ![Picture of login form component](https://ucarecdn.com/63911b75-5090-4fe3-9110-2b87a8b90c7d/ "Login Form")
 
+Thinking about the form step by step, I need to:
+- Capture the email and password fields and set the form's state
+- Pass those as arguments to `loginUser()`
+- Send them via a POST request to the route '/users/login'
+- Authenticate the user and return that user object
+
+Easy. 
+
+First, let's look at authenticating with Google and Facebook.
+
 The Google and Facebook login buttons are components provided by '[react-google-login](https://www.npmjs.com/package/react-google-login)' and '[react-facebook-login](https://www.npmjs.com/package/react-facebook-login)'.
 
 The components each accept various props. For now, I'll stick with some simple props as I build the component:
@@ -90,14 +100,6 @@ I also have a conditional to make sure that both the 'email' and 'password' fiel
 (I'll write later about using these React hooks.)
 
 With the skeleton of the form built, I'll some logic to actually handle logging in a user. 
-
-Thinking about it step by step, I need to:
-- Capture the email and password fields and set the form's state
-- Pass those as arguments to `loginUser()`
-- Send them via a POST request to the route '/users/login'
-- Authenticate the user and return that user object
-
-Easy. 
 
 [Check out the file on GitHub](https://github.com/bigcatplichta/wildwish-react-mui/blob/master/src/components/Login.js)
 
