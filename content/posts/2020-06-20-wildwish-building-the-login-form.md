@@ -47,7 +47,7 @@ The components each accept various props. For now, I'll stick with some simple p
                 />
 ```
 
-During development, my environment variables are being stored in `.env` as `REACT_APP_DEV_GOOGLE_OAUTH_ID = "12345-blablabla.apps.goggleusercontent.com"`, which is included in `.gitignore`. I'm accessing these by declaring them as constants, such as: `const GOOGLE_OAUTH_ID = process.env.REACT_APP_DEV_GOOGLE_OAUTH_ID;`
+During development, my environment variables are being stored in `.env` as `REACT_APP_DEV_GOOGLE_OAUTH_ID = "12345-blablabla.apps.goggleusercontent.com"`, which is included in `.gitignore`. I'm accessing these by declaring them as constants, such as: `const GOOGLE_OAUTH_ID = process.env.REACT_APP_DEV_GOOGLE_OAUTH_ID;` (This isn't secure and is only being done this way during development, I'll need a different solution in production.)
 
 I'll go more into how this is working in another post.
 
