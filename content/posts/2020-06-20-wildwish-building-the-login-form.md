@@ -18,10 +18,12 @@ Thinking about the form step by step, I need to:
 - Pass those as arguments to `loginUser()`
 - Send them via a POST request to the route '/users/login'
 - Authenticate the user and return that user object
+- Set the user in the App's state using Redux
+- Set the user in the current browser session so the user stays logged in
 
 Easy. 
 
-First, let's look at authenticating with Google and Facebook.
+First, let's take a brief look at authenticating with Google and Facebook.
 
 The Google and Facebook login buttons are components provided by '[react-google-login](https://www.npmjs.com/package/react-google-login)' and '[react-facebook-login](https://www.npmjs.com/package/react-facebook-login)'.
 
@@ -46,6 +48,8 @@ The components each accept various props. For now, I'll stick with some simple p
 ```
 
 During development, my environment variables are being stored in `.env` as `REACT_APP_DEV_GOOGLE_OAUTH_ID = "12345-blablabla.apps.goggleusercontent.com"`, which is included in `.gitignore`. I'm accessing these by declaring them as constants, such as: `const GOOGLE_OAUTH_ID = process.env.REACT_APP_DEV_GOOGLE_OAUTH_ID;`
+
+I'll go more into how this is working in another post.
 
 I've written the component itself as a functional component and use hooks to take care of the form's state instead of using a class component. Though to be honest I may rewrite it as a class component, I had to write it with a lot of boilerplate and doing so would be a simple way to dry it up. I'll write another post about writing it with hooks vs without.
 
@@ -99,7 +103,7 @@ I also have a conditional to make sure that both the 'email' and 'password' fiel
 ```
 (I'll write later about using these React hooks.)
 
-With the skeleton of the form built, I'll some logic to actually handle logging in a user. 
+With the skeleton of the form built, I'll need some logic to actually handle logging in a user. Let's do this.
 
 [Check out the file on GitHub](https://github.com/bigcatplichta/wildwish-react-mui/blob/master/src/components/Login.js)
 
