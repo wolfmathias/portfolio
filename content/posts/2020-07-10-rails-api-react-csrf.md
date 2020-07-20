@@ -2,7 +2,7 @@
 template: SinglePost
 title: Rails as an API, Devise, and CSRF Tokens
 status: Draft
-date: '2020-07-10'
+date: '2020-07-19'
 featuredImage: ''
 excerpt: >-
   The problems, and some solutions, I ran into when building with Rails and Devise
