@@ -4,6 +4,8 @@ title: 'WildWish: Authenticating User Logins'
 status: Published
 date: '2020-06-28'
 excerpt: Using Rails to Authenticate User Logins
+categories:
+  - category: Tech Blog
 ---
 With the login form built, I need to process the input from the form with my Rails application. I'm using [Devise](https://github.com/heartcombo/devise) to handle authentication.
 
