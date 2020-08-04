@@ -2,7 +2,7 @@
 template: SinglePost
 title: Object Oriented Programming with Animal Toys
 status: Draft
-date: '2020-07-21'
+date: '2020-08-02'
 featuredImage: ''
 excerpt: >-
   My first 'Hello World' app written with Ruby
