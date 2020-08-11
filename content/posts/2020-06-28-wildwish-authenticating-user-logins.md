@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'WildWish: Authenticating User Logins'
 status: Published
-date: '2020-06-28'
+date: '2020-07-26'
 excerpt: Using Rails to Authenticate User Logins
 categories:
   - category: Tech Blog
