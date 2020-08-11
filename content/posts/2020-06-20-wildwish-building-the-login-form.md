@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'WildWish: Building the login form'
 status: Draft
-date: '2020-06-20'
+date: '2020-07-20'
 excerpt: Building a login form
 categories:
   - category: Tech Blog
