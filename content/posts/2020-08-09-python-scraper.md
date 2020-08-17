@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: From Rails to Python
-status: Draft
+status: Published
 date: '2020-08-09'
 featuredImage: ''
 excerpt: >-
