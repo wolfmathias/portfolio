@@ -2,7 +2,7 @@
 template: SinglePost
 title: More on Building With Tailwind.
 status: Published
-date: '2020-08-26'
+date: '2020-09-03'
 featuredImage: ''
 excerpt: >-
   Using Tailwind's utility classes to quickly build a site.
