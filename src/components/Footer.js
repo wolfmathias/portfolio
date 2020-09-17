@@ -13,8 +13,8 @@ export default () => (
     {/* <InstagramFeed count="8" /> */}
     <footer className="footer">
       <div className="container taCenter ">
-        <a className="footer-contact-item" href={`https://www.github.com/bigcatplichta`}>
-          <GitHub /> github.com/bigcatplichta
+        <a className="footer-contact-item" href={`https://www.github.com/mattplichtawild`}>
+          <GitHub /> github.com/mattplichtawild
         </a>
         <a className="footer-contact-item" href={`https://www.twitter.com/mattplichtawild`}>
           <Twitter /> @mattplichtawild
