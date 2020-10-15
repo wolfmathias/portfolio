@@ -1,8 +1,8 @@
 ---
 template: SinglePost
-title: Docker Compose
+title: Simple Feature Development
 status: Published
-date: '2020-10/11'
+date: '2020-10-11'
 featuredImage: ''
 excerpt: >-
   Building the first app with Django
